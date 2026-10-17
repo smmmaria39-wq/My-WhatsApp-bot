@@ -8,7 +8,7 @@ import { pullOnce } from './system/autoUpdate.mjs';
 
 /* =========== Client ========== */
 const client = new Client({
-  phoneNumber: '201505362172', // Bot number
+  phoneNumber: '256770898186', // Bot number
   prefix: [".", "/", "!"],
   fromMe: false, 
   owners: [
